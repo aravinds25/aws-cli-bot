@@ -1,0 +1,3 @@
+watson-developer-cloud
+python-telegram-bot
+boto3
